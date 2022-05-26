@@ -1,10 +1,1 @@
-<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1_20)">
-<path d="M16.6636 4.15104H18.9458V0.176042C18.5521 0.121875 17.1979 0 15.6208 0C12.3302 0 10.0761 2.06979 10.0761 5.87396V9.375H6.44481V13.8187H10.0761V25H14.5281V13.8198H18.0125L18.5656 9.37604H14.5271V6.31458C14.5281 5.03021 14.874 4.15104 16.6636 4.15104V4.15104Z" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0_1_20">
-<rect width="25" height="25" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="svg-inline--fa fa-facebook-f fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="#fff" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>
